@@ -2,11 +2,17 @@
 
 ### What is DevOps?
 
-DevOps is a philosophy of communication and collaboration and a way of working in the tech industry using short and continuous cycles of delivery.  
+DevOps is a philosophy of communication and collaboration and a way of working in the tech industry using short and continuous cycles of delivery.  It aims to bring together the previously siloed departments of software development and IT operations.
 
 ![alt text](devops.png)
 
-The above image shows the continuous cycle of creating, maintaining and releasing.
+The above image shows the continuous cycle of creating, maintaining and releasing a product.
+
+### The Four Pillars of DevOps
+
+![alt text](4pillarsOfDevOps.png)
+
+The above image shows the four pillars of DevOps.  The main goals, so to speak.
 
 ### Benefits of DevOps?  Benefits for Businesses?
 
@@ -14,7 +20,7 @@ The benefits of DevOps is that issues can be noticed sooner and communicated imm
 
 ### What does the role entail?
 
-The role wil vary, depending on the company but DevOps engineers would be expected to have a general knowledge of everything within the whole CI/ CD (Continuous Integration/ Continuous Deliver/ Deployment) pipeline, as well as the soft skills necessary, such as communication.
+The role wil vary, depending on the company but DevOps engineers would be expected to have a general knowledge of everything within the whole CI/ CD (Continuous Integration/ Continuous Deliver/ Deployment) pipeline, as well as the soft skills necessary, such as communication.  Automation and creating tools for other departments are key, as is making sure that services are running as close to 100% uptime as possible. Basically, to make sure things are running as efficiently and as smoothly as is possible.
 
 ### Who do DevOps engineers work with?
 
@@ -66,3 +72,9 @@ Cloud computing is the delivery of computing services online, rather than in phy
 - Adobe
     - As Adobe grew, integration between the siloed departments became an impossible task.
     - In their DevOps transformation, the goal of 'The Adobe Experience Platform Pipeline' was to break Adobe's internal silos and simplify communication between services by reducing the number of manual steps.
+
+![alt text](mono_to_microservices.png)
+
+The above image represents the structure that all of the companies followed.  They went from having their database and all their code in one machine, to upgrading to the cloud, then spliting this into microservices.
+
+Microservices is like when you call a company and then you are asked to press numbers for options, which directs you to a specific department, which then may branch of further, before you are connected.  This saves the company time and means you have a better chance of speaking directly to someone who can better help you with your situation or questions.
